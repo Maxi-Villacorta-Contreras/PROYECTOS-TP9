@@ -1,0 +1,6 @@
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\MenuSwitch\MenuSwitch\bin\Debug\MenuSwitch.exe.config
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\MenuSwitch\MenuSwitch\bin\Debug\MenuSwitch.exe
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\MenuSwitch\MenuSwitch\bin\Debug\MenuSwitch.pdb
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\MenuSwitch\MenuSwitch\obj\Debug\MenuSwitch.csprojResolveAssemblyReference.cache
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\MenuSwitch\MenuSwitch\obj\Debug\MenuSwitch.exe
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\MenuSwitch\MenuSwitch\obj\Debug\MenuSwitch.pdb

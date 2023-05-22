@@ -1,0 +1,6 @@
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\letra\letra\bin\Debug\letra.exe.config
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\letra\letra\bin\Debug\letra.exe
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\letra\letra\bin\Debug\letra.pdb
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\letra\letra\obj\Debug\letra.csprojResolveAssemblyReference.cache
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\letra\letra\obj\Debug\letra.exe
+C:\Users\nmnmm\Desktop\Proyectos-VillacortaMaximiliano-7moInformatica\TP9-MaxiVillacorta.C\letra\letra\obj\Debug\letra.pdb
